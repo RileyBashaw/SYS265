@@ -23,3 +23,6 @@ I also used PFSense rather than centOS and Firewalld like the lab suggested, and
 
 Used the following source to dockerize Wordpress within my docker01-riley server, utilizing some of the code and instructions.
 Source: https://www.digitalocean.com/community/tutorials/how-to-install-wordpress-with-docker-compose
+
+One of the frequent Docker commands I used were "docker-compose su", which shows the current containerized operations. Another one was "docker run" which was used to create a container based on a given template.
+
